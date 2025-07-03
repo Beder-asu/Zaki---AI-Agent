@@ -4,7 +4,7 @@ import io
 
 API_URL = "https://router.huggingface.co/featherless-ai/v1/chat/completions"
 HEADERS = {
-    "Authorization": "Bearer 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",
+    "Authorization": "Bearer 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",
 }
 
 # Next step: configure gmail automationto run the app solely atonomus
