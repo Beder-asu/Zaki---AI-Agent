@@ -18,8 +18,10 @@
 
 NOTE: if you are using a certain conda env or similar packages you will need to 
 	activate it at steps 4 and 5
+ 
 PS: If not working try to copy the main host url(Beside running on statement at step 4)
 	then paste it in the side panel
+ 
 PS: For simplicity I will include my own HF token url
 
 Design: The UI leverages Streamlit for a simple, interactive web interface, 
