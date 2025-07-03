@@ -1,12 +1,18 @@
 1- from search bar open cmd (Command Prompt)
+
 2- paste: pip install requests python-docx pillow fastapi uvicorn pdfplumber streamlit python-multipart
+
 3- go to submission folder --> zaki folder --> copy the path from the path bar = copied_path
+
 4- in cmd write -> cd copied_path
 	then write -> uvicorn main:app --reload
+ 
 5- open new cmd window (DO NOT CLOSE THE EXISTING)
 	write -> cd copied_path	
 	   then write -> streamlit run ui_app.py
+    
 6- to try the RFI summarizer, upload the RFI file from copied_path
+
 7- to try the report generator insert any dummy data and upload 
    any image into the form then witness the output
 
