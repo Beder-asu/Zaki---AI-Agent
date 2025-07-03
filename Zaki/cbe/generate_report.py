@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 
 API_URL = "https://router.huggingface.co/featherless-ai/v1/chat/completions"
 HEADERS = {
-    "Authorization": "Bearer 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",
+    "Authorization": "Bearer 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",
 }
 
 def generate_daily_report(data: dict) -> str:
